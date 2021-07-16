@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/custom-react-player-example-app/static/css/main.fca7e876.chunk.css",
+    "main.js": "/custom-react-player-example-app/static/js/main.18b027e3.chunk.js",
+    "main.js.map": "/custom-react-player-example-app/static/js/main.18b027e3.chunk.js.map",
+    "runtime-main.js": "/custom-react-player-example-app/static/js/runtime-main.b5bfa2b2.js",
+    "runtime-main.js.map": "/custom-react-player-example-app/static/js/runtime-main.b5bfa2b2.js.map",
+    "static/js/2.3d5c0376.chunk.js": "/custom-react-player-example-app/static/js/2.3d5c0376.chunk.js",
+    "static/js/2.3d5c0376.chunk.js.map": "/custom-react-player-example-app/static/js/2.3d5c0376.chunk.js.map",
+    "index.html": "/custom-react-player-example-app/index.html",
+    "static/css/main.fca7e876.chunk.css.map": "/custom-react-player-example-app/static/css/main.fca7e876.chunk.css.map",
+    "static/js/2.3d5c0376.chunk.js.LICENSE.txt": "/custom-react-player-example-app/static/js/2.3d5c0376.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5bfa2b2.js",
+    "static/js/2.3d5c0376.chunk.js",
+    "static/css/main.fca7e876.chunk.css",
+    "static/js/main.18b027e3.chunk.js"
+  ]
+}
